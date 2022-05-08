@@ -1,5 +1,5 @@
 # Discord Bot
-GAMEGG Discord Robot.
+GAMEGG [Discord](https://discord.com) Robot.
 
 ### How to use
 1. First, download and install the [Node.js](https://nodejs.org/en/).
