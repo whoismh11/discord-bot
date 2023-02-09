@@ -1,7 +1,7 @@
 # Discord Bot
-GAMEGG [Discord](https://discord.com) Robot.
+GAMEGG [Discord](https://discord.com) robot (simple).
 
-### How to use
+## How to use
 1. First, download and install the [Node.js](https://nodejs.org/en/).
 2. Create your application (bot) on the [Discord site](https://discord.com/developers/applications) and invite it to your server.
 3. Copy your bot token (from the Discord site in step 2) and paste it into the `config.json` file.
@@ -11,3 +11,6 @@ GAMEGG [Discord](https://discord.com) Robot.
 
 - To view the bot commands guide, use the `$help` command in Discord.
 - To add, delete or edit bot commands, go to the `commands` folder and edit the commands with notepad.
+
+## Contribution
+- [Discord](https://discord.gg/2JjvhAk)
